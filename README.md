@@ -1,4 +1,4 @@
-# freeCodeCamp-News-Author-Page
+# FreeCodeCamp-News-Author-Page
 - A responsive and dynamic author page built using HTML, CSS, and JavaScript. It fetches author data dynamically from an API and displays it in a neat layout with a "Load More" functionality
 
 ## 🚀 Project Overview
